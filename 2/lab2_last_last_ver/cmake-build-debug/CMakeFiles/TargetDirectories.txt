@@ -1,0 +1,2 @@
+/home/aleksandr/CPP/lab2_last_last_ver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aleksandr/CPP/lab2_last_last_ver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
